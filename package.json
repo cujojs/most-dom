@@ -1,0 +1,35 @@
+{
+  "name": "most-dom",
+  "version": "0.1.0",
+  "description": "most.js DOM extras - signals from form values, DOM event delegation",
+  "main": "most-dom.js",
+  "scripts": {
+    "test": "buster-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cujojs/most-dom.git"
+  },
+  "keywords": [
+    "most",
+    "stream",
+    "streams",
+    "reactive",
+    "dom",
+    "events",
+    "cujojs"
+  ],
+  "author": "brian@hovercraftstudios.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cujojs/most-dom/issues"
+  },
+  "homepage": "https://github.com/cujojs/most-dom",
+  "dependencies": {
+    "most": "^0.7.0"
+  },
+  "devDependencies": {
+    "jshint": "~2.5",
+    "buster": "~0.7"
+  }
+}
