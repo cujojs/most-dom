@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/cujojs/most-dom",
   "dependencies": {
-    "most": "^0.7.0"
+    "most": "~0.8"
   },
   "devDependencies": {
     "jshint": "~2.5",
